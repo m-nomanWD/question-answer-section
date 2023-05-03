@@ -4,6 +4,8 @@
 
 ![](./idea.png);
 
+
+
 #### React Icons
 
 [react icons](https://react-icons.github.io/react-icons/)
@@ -18,3 +20,4 @@ const Component = () => {
   return <FaHome className='icon'></FaHome>;
 };
 ```
+### inspire by john smilga' tutorial
